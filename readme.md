@@ -7,27 +7,18 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview` 
- 
-<br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.24.54.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.24.58.png)
+ <br/><br/>
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.14.59.png)
 <br/><br/>
 
 <br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.13.png)
+![pic2](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.15.29.png)
 <br/><br/>
 
 <br/><br/>
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.17.png)
+![pic3](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.16.29.png)
 <br/><br/>
 
 <br/><br/>
-![pic5](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.25.png)
+![pic4](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.17.05.png)
 <br/><br/>
-<br/><br/>
-![pic6](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.28.png)
-<br/><br/>
-
