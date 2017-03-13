@@ -8,20 +8,25 @@
  - Open:  `Index.html`
  - Open:  `Live Preview` 
  
- <br/><br/>
+<br/><br/>
 ![pic1](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.24.54.png)
 <br/><br/>
 
+<br/><br/>
 ![pic2](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.24.58.png)
 <br/><br/>
 
+<br/><br/>
 ![pic3](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.13.png)
 <br/><br/>
 
+<br/><br/>
 ![pic4](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.17.png)
 <br/><br/>
 
+<br/><br/>
 ![pic5](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.25.png)
+<br/><br/>
 <br/><br/>
 ![pic6](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2022.25.28.png)
 <br/><br/>
