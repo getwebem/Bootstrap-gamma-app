@@ -6,19 +6,8 @@
  - Run :  `cd gamma-app`
  - Run :  `Brackets .`
  - Open:  `Index.html`
- - Open:  `Live Preview` 
+ - Open:  `Live Preview`
+   - [View Demo](http://getwebem.com/gamma-app/index.html)  
  <br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.14.59.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.15.29.png)
-<br/><br/>
-
-<br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.16.29.png)
-<br/><br/>
-
-<br/><br/>
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-03-13%20at%2023.17.05.png)
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/gamma-app/Screen%20Shot%202017-08-03%20at%2021.41.04.png)
 <br/><br/>
