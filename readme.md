@@ -6,7 +6,7 @@
  - $ : `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`
- - [View Demo](http://getwebem.com/gamma-app/index.html)  
+ - [View Demo](https://gray-cliff-07ab5c703.azurestaticapps.net/index.html)  
  
 :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use  
